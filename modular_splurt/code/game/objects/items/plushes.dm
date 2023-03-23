@@ -14,7 +14,7 @@
 	icon_state = "plushie_synth"
 	item_state = "plushie_synth"
 
-/obj/item/toy/plush/Synth
+/obj/item/toy/plush/ProgrammerPlushie
 	name = "Programmer Plushie"
 	desc = "An adorable stuffed toy that resembles a very happy coder."
 	icon = 'modular_splurt/icons/obj/plushes.dmi'
