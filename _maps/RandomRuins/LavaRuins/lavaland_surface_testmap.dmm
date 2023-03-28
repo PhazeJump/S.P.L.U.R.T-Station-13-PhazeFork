@@ -1,0 +1,30 @@
+"a" = (/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface)
+"b" = (/turf/closed/mineral/volcanic/lava_land_surface,/area/lavaland/surface)
+"j" = (/obj/item/toy/plush/chaotic_toaster,/turf/open/floor/circuit/red,/area/lavaland/surface)
+"n" = (/turf/open/floor/circuit/red/off,/area/lavaland/surface)
+"y" = (/turf/open/floor/circuit/red/anim,/area/lavaland/surface)
+"G" = (/obj/structure/spawner/lavaland/legion,/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface)
+"K" = (/turf/open/floor/circuit/off,/area/lavaland/surface)
+
+(1,1,1) = {"
+aabbaaaaabbbbbbbbbbb
+abbbaaaaaaabbbbbbbbb
+bbbbaaaaaaaaaaaaaabb
+bbaaabbbbaaaabaaaaab
+bbabbbbbbbaaabbbbaab
+bbbbbbabbbbaaabbbaab
+bbbbbKyabbbaaabbbaaa
+bbbbayKyKbbaaabbbaaa
+abbbaynjyabbaaabbaaa
+aabbbKyyKabbaabbbaaa
+aaabbbbbbbbbaabbbaaa
+aaabbbbbbaaaaabbbaaa
+aabbbbbbbaaGaabbbaaa
+aabbbbbbbbaaabbbaaab
+aabbbbbbbbbbbbbbaaab
+babbbbbbbbbbbbbaaabb
+baaaaaabbbbbbbaaaabb
+bbbaaaaaaaaaaaaaabbb
+bbbbbbaaabbbbabbbbbb
+bbbbbbbbbbbbbbbbbbbb
+"}
