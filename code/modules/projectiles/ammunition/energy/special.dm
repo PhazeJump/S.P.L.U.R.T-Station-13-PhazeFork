@@ -51,6 +51,13 @@
 	variance = 40
 	harmful = FALSE
 
+/obj/item/ammo_casing/energy/lasernet
+	projectile_type = /obj/item/projectile/beam/laser
+	select_name = "laser"
+	e_cost = 0
+	pellets = 6
+	variance = 10
+
 /obj/item/ammo_casing/energy/trap
 	projectile_type = /obj/item/projectile/energy/trap
 	select_name = "snare"

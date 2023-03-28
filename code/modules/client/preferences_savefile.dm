@@ -950,11 +950,15 @@ SAVEFILE UPDATING/VERSIONING - 'Simplified', or rather, more coder-friendly ~Car
 
 	//Load prefs
 	S["job_preferences"] >> job_preferences
+	if (isnull(job_preferences))
+		job_preferences = list()
 
 	//Quirks
 	S["all_quirks"] >> all_quirks
 
 	S["language"] >> language
+	if (isnull(language))
+		language = list()
 
 	//Records
 	S["security_records"] >> security_records

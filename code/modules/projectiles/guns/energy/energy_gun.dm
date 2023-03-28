@@ -81,6 +81,15 @@
 	can_flashlight = 0
 	ammo_x_offset = 1
 
+/obj/item/gun/energy/e_gun/killnet
+	name = "\improper KILLnet"
+	desc = "The \"Dynamic Rapid-DESTRUCTION of the Guilty\" net is a revolution in DESTRUCTION technology."
+	icon_state = "energy"
+	item_state = "energy"
+	ammo_type = list(/obj/item/ammo_casing/energy/lasernet)
+	can_flashlight = 0
+	ammo_x_offset = 1
+
 /obj/item/gun/energy/e_gun/dragnet/snare
 	name = "Energy Snare Launcher"
 	desc = "Fires an energy snare that slows the target down."
