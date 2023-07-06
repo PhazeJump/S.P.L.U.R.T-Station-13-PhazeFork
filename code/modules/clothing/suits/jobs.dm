@@ -229,7 +229,6 @@
 	flags_inv = HIDEHAIR|HIDEEARS
 	mutantrace_variation = STYLE_MUZZLE
 
-
 //Paramedic
 
 /obj/item/clothing/suit/toggle/labcoat/paramedic
